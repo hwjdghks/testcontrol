@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://nomelancholy.github.io/pj-project-driven-study-mind-map",
+  "homepage": "https://hwjdghks.github.io/testcontrol",
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server --hot",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
@@ -32,6 +32,6 @@
   },
   "devDependencies": {
     "file-loader": "^5.0.2",
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   }
 }

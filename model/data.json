@@ -1,2203 +1,497 @@
 [
     {
-        "data": {
-            "id": "PJ-mindMap",
-            "url": "https://github.com/nomelancholy/pj-project-skill-map",
-            "label": "Project-Skill-Map\n(19.12. ~ 19.12)"
-        }
+        "id": 1,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/1",
+        "label": "각 장별 일괄 제작"
     },
     {
-        "data": {
-            "id": "ETC-mindMap",
-            "label": "ETC"
-        }
+        "id": 2,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/2",
+        "label": "템플릿 치환자 추가"
     },
     {
-        "data": {
-            "id": "PJ-mindMap->ETC-mindMap",
-            "source": "ETC-mindMap",
-            "target": "PJ-mindMap"
-        }
+        "id": 3,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/3",
+        "label": "좀 더 많은 성경 지원하기"
     },
     {
-        "data": {
-            "id": "ETC-mindMap-vsc",
-            "url": "https://code.visualstudio.com/",
-            "label": "VSC"
-        }
+        "id": 4,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/4",
+        "label": "오프라인일 때도 사용할 수 있게 캐싱 기능 추가"
     },
     {
-        "data": {
-            "id": "ETC-mindMap->ETC-mindMap-vsc",
-            "source": "ETC-mindMap-vsc",
-            "target": "ETC-mindMap"
-        }
+        "id": 5,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/5",
+        "label": "성경 구절 소스를 선택하는 기능 추가"
     },
     {
-        "data": {
-            "id": "FE-mindMap",
-            "label": "Front-End"
-        }
+        "id": 6,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/6",
+        "label": "오프라인 캐시 기능 추가"
     },
     {
-        "data": {
-            "id": "PJ-mindMap->FE-mindMap",
-            "source": "FE-mindMap",
-            "target": "PJ-mindMap"
-        }
+        "id": 7,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/7",
+        "label": "줄 수를 기준으로 슬라이드를 분할하는 기능"
     },
     {
-        "data": {
-            "id": "SKILL-mindMap-cytoscape",
-            "url": "https://cytoscape.org/",
-            "label": "cytoscape"
-        }
+        "id": 8,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/8",
+        "label": "Fixup"
     },
     {
-        "data": {
-            "id": "FE-mindMap->SKILL-mindMap-cytoscape",
-            "source": "SKILL-mindMap-cytoscape",
-            "target": "FE-mindMap"
-        }
+        "id": 9,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/9",
+        "label": "캐시 사용 선택 기능 추가"
     },
     {
-        "data": {
-            "id": "SKILL-mindMap-javascript",
-            "url": "https://developer.mozilla.org/ko/docs/Web/JavaScript",
-            "label": "Javascript"
-        }
+        "id": 10,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/10",
+        "label": "Ui fix"
     },
     {
-        "data": {
-            "id": "FE-mindMap->SKILL-javascript",
-            "source": "SKILL-mindMap-javascript",
-            "target": "FE-mindMap"
-        }
+        "id": 11,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/11",
+        "label": "1.2"
     },
     {
-        "data": {
-            "id": "ETC-mindMap",
-            "label": "ETC"
-        }
+        "id": 12,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/12",
+        "label": "구절 구분 못하는 문제 해결"
     },
     {
-        "data": {
-            "id": "PJ-mindMap->ETC-mindMap",
-            "source": "ETC-mindMap",
-            "target": "PJ-mindMap"
-        }
+        "id": 13,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/13",
+        "label": "README.md 수정"
     },
     {
-        "data": {
-            "id": "SKILL-mindMap-webpack",
-            "url": "https://webpack.js.org/",
-            "label": "webpack"
-        }
+        "id": 14,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/14",
+        "label": "README.md 업데이트"
     },
     {
-        "data": {
-            "id": "ETC-mindMap->SKILL-mindMap-webpack",
-            "source": "SKILL-mindMap-webpack",
-            "target": "ETC-mindMap"
-        }
+        "id": 15,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/15",
+        "label": "한 페이지에 여러 성경을 사용하는 기능"
     },
     {
-        "data": {
-            "id": "PJ-sasGems",
-            "url": "https://docs.google.com/presentation/d/13Uv-GDmkdGpw2LWPZBMo1XxPuitafX5DZrMSPOByvn4/edit#slide=id.p",
-            "label": "Samsung SAS G-EMS project\n(18.07 ~ 19.02)"
-        }
+        "id": 16,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/16",
+        "label": "갓피아 성경 구절이 밀려서 나옴"
     },
     {
-        "data": {
-            "id": "ETC-sasGems",
-            "label": "ETC"
-        }
+        "id": 17,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/17",
+        "label": "제작한 성경 구절을 기억하는 기능"
     },
     {
-        "data": {
-            "id": "PJ-sasGems->ETC-sasGems",
-            "source": "ETC-sasGems",
-            "target": "PJ-sasGems"
-        }
+        "id": 18,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/18",
+        "label": "구절 번호를 임의로 부여하지 않도록 수정"
     },
     {
-        "data": {
-            "id": "ETC-sasGems-eclipse",
-            "url": "https://www.eclipse.org/downloads/",
-            "label": "Eclipse"
-        }
+        "id": 19,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/19",
+        "label": "Goodtv 성경소스 추가"
     },
     {
-        "data": {
-            "id": "ETC-sasGems->ETC-sasGems-eclipse",
-            "source": "ETC-sasGems-eclipse",
-            "target": "ETC-sasGems"
-        }
+        "id": 20,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/20",
+        "label": "갓피플 파싱 제대로 안되는 현상 수정"
     },
     {
-        "data": {
-            "id": "ETC-sasGems-toad",
-            "url": "https://www.toadworld.com/",
-            "label": "Toad"
-        }
+        "id": 21,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/21",
+        "label": "엔티티 이름 변경 및 async/await 사용"
     },
     {
-        "data": {
-            "id": "ETC-sasGems->ETC-sasGems-toad",
-            "source": "ETC-sasGems-toad",
-            "target": "ETC-sasGems"
-        }
+        "id": 22,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/22",
+        "label": "템플릿 프리셋 기능"
     },
     {
-        "data": {
-            "id": "ETC-sasGems-svn",
-            "url": "https://www.eclipse.org/subversive/",
-            "label": "SVN"
-        }
+        "id": 23,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/23",
+        "label": "레이아웃 재배치 및 이름 정리"
     },
     {
-        "data": {
-            "id": "ETC-sasGems->ETC-sasGems-svn",
-            "source": "ETC-sasGems-svn",
-            "target": "ETC-sasGems"
-        }
+        "id": 24,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/24",
+        "label": "ConfigurationManager 사용하기"
     },
     {
-        "data": {
-            "id": "BE-sasGems",
-            "label": "Back-End"
-        }
+        "id": 25,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/25",
+        "label": "PPT 만들기 전용 작업 큐 사용"
     },
     {
-        "data": {
-            "id": "PJ-sasGems->BE-sasGems",
-            "source": "BE-sasGems",
-            "target": "PJ-sasGems"
-        }
+        "id": 26,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/26",
+        "label": "여러 성경을 PPT에 사용 및 기억"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-spring",
-            "url": "https://spring.io/",
-            "label": "Spring"
-        }
+        "id": 27,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/27",
+        "label": "비어있는 페이지는 넘기도록 알고리즘 수정"
     },
     {
-        "data": {
-            "id": "BE-sasGems->SKILL-sasGems-spring",
-            "source": "SKILL-sasGems-spring",
-            "target": "BE-sasGems"
-        }
+        "id": 28,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/28",
+        "label": "응답 없음 시 다시 시도 물어보기"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-java",
-            "url": "https://www.oracle.com/kr/java/",
-            "label": "Java"
-        }
+        "id": 29,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/29",
+        "label": "자동 업데이트"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-spring->SKILL-sasGems-java",
-            "source": "SKILL-sasGems-java",
-            "target": "SKILL-sasGems-spring"
-        }
+        "id": 30,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/30",
+        "label": "데이터베이스 엔진 바꾸기"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-maven",
-            "url": "https://www.oracle.com/kr/java/",
-            "label": "Maven"
-        }
+        "id": 31,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/31",
+        "label": "러시아어 UI"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-spring->SKILL-sasGems-maven",
-            "source": "SKILL-sasGems-maven",
-            "target": "SKILL-sasGems-spring"
-        }
+        "id": 32,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/32",
+        "label": "[WIP] 러시아어 성경 소스 bible-teka.com 추가"
     },
     {
-        "data": {
-            "id": "SKILL-i18n",
-            "url": "https://mvnrepository.com/tags/i18n",
-            "label": "i18n"
-        }
+        "id": 33,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/33",
+        "label": "Microsoft Office가 없어도 사용할 수 있게 지원"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-maven->SKILL-i18n",
-            "source": "SKILL-i18n",
-            "target": "SKILL-sasGems-maven"
-        }
+        "id": 34,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/34",
+        "label": ".NET 6.0으로 포팅"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-weblogic",
-            "url": "https://www.oracle.com/kr/middleware/weblogic/",
-            "label": "Weblogic"
-        }
+        "id": 35,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/35",
+        "label": "[Pending] .NET Core 3.0으로 포팅"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-spring->SKILL-sasGems-weblogic",
-            "source": "SKILL-sasGems-weblogic",
-            "target": "SKILL-sasGems-spring"
-        }
+        "id": 36,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/36",
+        "label": "데이터베이스 엔진으로 ESENT 대신 SQLite 사용"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-myBatis",
-            "url": "https://mybatis.org/mybatis-3/ko/index.html",
-            "label": "myBatis"
-        }
+        "id": 37,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/37",
+        "label": "캐시 지우기 구현"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-spring->SKILL-sasGems-myBatis",
-            "source": "SKILL-sasGems-myBatis",
-            "target": "SKILL-sasGems-spring"
-        }
+        "id": 38,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/38",
+        "label": "PPT 만들기용 작업 큐 구현"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-oracle",
-            "url": "https://www.oracle.com/kr/database/technologies/",
-            "label": "Oracle"
-        }
+        "id": 39,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/39",
+        "label": "PPT 제작 기록 관리"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-myBatis->SKILL-sasGems-oracle",
-            "source": "SKILL-sasGems-oracle",
-            "target": "SKILL-sasGems-myBatis"
-        }
+        "id": 40,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/40",
+        "label": "Cross-Platform UI 사용"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-plSql",
-            "url": "https://www.oracle.com/kr/database/technologies/appdev/plsql.html",
-            "label": "PL/SQL"
-        }
+        "id": 41,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/41",
+        "label": "스플래시 스크린 추가"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-oracle->SKILL-sasGems-plSql",
-            "source": "SKILL-sasGems-plSql",
-            "target": "SKILL-sasGems-oracle"
-        }
+        "id": 42,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/42",
+        "label": "성경 데이터 내려받기 속도 제한"
     },
     {
-        "data": {
-            "id": "FE-sasGems",
-            "label": "Front-End"
-        }
+        "id": 43,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/43",
+        "label": "제작 기록 삭제하면 제작 중인 PPT 열어지는 문제"
     },
     {
-        "data": {
-            "id": "PJ-sasGems->FE-sasGems",
-            "source": "FE-sasGems",
-            "target": "PJ-sasGems"
-        }
+        "id": 44,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/44",
+        "label": "Entity Framework Core로 포팅 및 서비스 분리"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-html",
-            "url": "https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
-            "label": "HTML"
-        }
+        "id": 45,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/45",
+        "label": "High DPI 지원"
     },
     {
-        "data": {
-            "id": "FE-sasGems->SKILL-sasGems-html",
-            "source": "SKILL-sasGems-html",
-            "target": "FE-sasGems"
-        }
+        "id": 46,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/46",
+        "label": "코드 클린업"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-css",
-            "url": "https://developer.mozilla.org/ko/docs/Web/CSS",
-            "label": "CSS"
-        }
+        "id": 47,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/47",
+        "label": "App Center SDK 추가"
     },
     {
-        "data": {
-            "id": "FE-sasGems->SKILL-sasGems-css",
-            "source": "SKILL-sasGems-css",
-            "target": "FE-sasGems"
-        }
+        "id": 48,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/48",
+        "label": ".NET Framework 4.7.2 사용"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-jQuery",
-            "url": "https://jquery.com/",
-            "label": "jQuery"
-        }
+        "id": 49,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/49",
+        "label": "High DPI 지원"
     },
     {
-        "data": {
-            "id": "FE-sasGems->SKILL-sasGems-jQuery",
-            "source": "SKILL-sasGems-jQuery",
-            "target": "FE-sasGems"
-        }
+        "id": 50,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/50",
+        "label": "2절씩 한슬라이드에 만들어 주는 기능"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-jQWidgets",
-            "url": "https://www.jqwidgets.com/",
-            "label": "jQWidgets"
-        }
+        "id": 51,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/51",
+        "label": "PPT 만들기 오류"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-jQuery->SKILL-sasGems-jQWidgets",
-            "source": "SKILL-sasGems-jQWidgets",
-            "target": "SKILL-sasGems-jQuery"
-        }
+        "id": 52,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/52",
+        "label": "두 언어를 동시에 한 슬라이드 만들기"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-ajax",
-            "url": "https://api.jquery.com/category/ajax/",
-            "label": "Ajax"
-        }
+        "id": 53,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/53",
+        "label": "[WIP] Electron을 이용하여 JavaScript로 코드 재작성"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-jQuery->SKILL-sasGems-ajax",
-            "source": "SKILL-sasGems-ajax",
-            "target": "SKILL-sasGems-jQuery"
-        }
+        "id": 54,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/54",
+        "label": "교독문 찬송가 등 텍스트파일 이용 불러오기"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-jsp",
-            "url": "https://www.oracle.com/java/technologies/jspt.html",
-            "label": "JSP"
-        }
+        "id": 55,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/55",
+        "label": "Revert \"High DPI 지원\""
     },
     {
-        "data": {
-            "id": "FE-sasGems->SKILL-sasGems-jsp",
-            "source": "SKILL-sasGems-jsp",
-            "target": "FE-sasGems"
-        }
+        "id": 56,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/56",
+        "label": "Revert \".NET Framework 4.7.2 사용\""
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-jstl",
-            "url": "https://www.oracle.com/technetwork/java/index-141251.html",
-            "label": "JSTL"
-        }
+        "id": 57,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/57",
+        "label": "빌드 대상 성경 목록 순번 세로 정렬 가운데로 변경"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-jsp->SKILL-sasGems-jstl",
-            "source": "SKILL-sasGems-jstl",
-            "target": "SKILL-sasGems-jsp"
-        }
+        "id": 58,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/58",
+        "label": "[PPT 제작 기록] 만든 날짜의 시간대가 UTC 기준임"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-el",
-            "url": "https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/expressions.html",
-            "label": "EL"
-        }
+        "id": 59,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/59",
+        "label": "줄 수를 기준으로 슬라이드를 분할하는 기능 추가"
     },
     {
-        "data": {
-            "id": "SKILL-sasGems-jsp->SKILL-sasGems-el",
-            "source": "SKILL-sasGems-el",
-            "target": "SKILL-sasGems-jsp"
-        }
+        "id": 60,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/60",
+        "label": "PPT 만든 날짜의 기준 시간대를 로컬 시간대로 변경"
     },
     {
-        "data": {
-            "id": "PJ-cop",
-            "url": "https://docs.google.com/presentation/d/1nRzRt5gqEXm6q8xMqY2TkdYT8eHHtyBxG3db8-xqKCU/edit?usp=sharing",
-            "label": "Hyndai CoP project\n(19.02 ~ 19.04)"
-        }
+        "id": 61,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/61",
+        "label": "refactor: SDK 스타일 프로젝트로 변환"
     },
     {
-        "data": {
-            "id": "ETC-cop",
-            "label": "ETC"
-        }
+        "id": 62,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/62",
+        "label": "성경 책 이름을 외국어로 표시하는 기능 제안"
     },
     {
-        "data": {
-            "id": "PJ-cop->ETC-cop",
-            "source": "ETC-cop",
-            "target": "PJ-cop"
-        }
+        "id": 63,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/63",
+        "label": "chore: CHANGELOG 작성 및 판올림 자동화"
     },
     {
-        "data": {
-            "id": "ETC-cop-egov",
-            "url": "https://www.egovframe.go.kr/",
-            "label": "eGovFramework"
-        }
+        "id": 64,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/64",
+        "label": "chore: 배포 자동화"
     },
     {
-        "data": {
-            "id": "ETC-cop->ETC-cop-egov",
-            "source": "ETC-cop-egov",
-            "target": "ETC-cop"
-        }
+        "id": 65,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/65",
+        "label": "여러 성경 동시 사용 + 슬라이드당 성경 구절 줄 수 제한 시 오류 발생"
     },
     {
-        "data": {
-            "id": "ETC-cop-dbeaver",
-            "url": "https://dbeaver.io/",
-            "label": "Dbeaver"
-        }
+        "id": 66,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/66",
+        "label": "fix: 대상 프레임워크 .NET Framework 4.8로 변경"
     },
     {
-        "data": {
-            "id": "ETC-cop->ETC-cop-dbeaver",
-            "source": "ETC-cop-dbeaver",
-            "target": "ETC-cop"
-        }
+        "id": 67,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/67",
+        "label": "refactor: C# 8.0 버전 사용"
     },
     {
-        "data": {
-            "id": "ETC-cop-svn",
-            "url": "https://www.eclipse.org/subversive/",
-            "label": "SVN"
-        }
+        "id": 68,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/68",
+        "label": "refactor: Form 인스턴스 생성에 DI 사용"
     },
     {
-        "data": {
-            "id": "ETC-cop->ETC-cop-svn",
-            "source": "ETC-cop-svn",
-            "target": "ETC-cop"
-        }
+        "id": 69,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/69",
+        "label": "chore: xUnit 테스트 프로젝트 추가"
     },
     {
-        "data": {
-            "id": "BE-cop",
-            "label": "Back-End"
-        }
+        "id": 70,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/70",
+        "label": "refactor: HiddenPowerPoint 클래스 추가"
     },
     {
-        "data": {
-            "id": "PJ-cop->BE-cop",
-            "source": "BE-cop",
-            "target": "PJ-cop"
-        }
+        "id": 71,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/71",
+        "label": "refactor: HiddenPowerPoint 추출"
     },
     {
-        "data": {
-            "id": "SKILL-cop-spring",
-            "url": "https://spring.io/",
-            "label": "Spring"
-        }
+        "id": 72,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/72",
+        "label": "refactor: 성경 데이터 받아오는 클래스 추출"
     },
     {
-        "data": {
-            "id": "BE-cop->SKILL-cop-spring",
-            "source": "SKILL-cop-spring",
-            "target": "BE-cop"
-        }
+        "id": 73,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/73",
+        "label": "refactor: BibleSource 네임스페이스 변경"
     },
     {
-        "data": {
-            "id": "SKILL-cop-java",
-            "url": "https://www.oracle.com/kr/java/",
-            "label": "Java"
-        }
+        "id": 74,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/74",
+        "label": "fix: 코드 분석기 추가 및 권장 사항 적용"
     },
     {
-        "data": {
-            "id": "SKILL-cop-spring->SKILL-cop-java",
-            "source": "SKILL-cop-java",
-            "target": "SKILL-cop-spring"
-        }
+        "id": 75,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/75",
+        "label": "refactor: PPT 만들기 진행상황 처리에 Progress<T> 사용"
     },
     {
-        "data": {
-            "id": "SKILL-cop-maven",
-            "url": "https://www.oracle.com/kr/java/",
-            "label": "Maven"
-        }
+        "id": 76,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/76",
+        "label": "feat: app.config으로 DB connection string 설정 지원"
     },
     {
-        "data": {
-            "id": "SKILL-cop-spring->SKILL-cop-maven",
-            "source": "SKILL-cop-maven",
-            "target": "SKILL-cop-spring"
-        }
+        "id": 77,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/77",
+        "label": "refactor: dependency는 getter만 사용하도록 수정"
     },
     {
-        "data": {
-            "id": "SKILL-cop-Jackson",
-            "url": "https://mvnrepository.com/search?q=Jackson",
-            "label": "Jackson"
-        }
+        "id": 78,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/78",
+        "label": "refactor: Jobs 이름 변경"
     },
     {
-        "data": {
-            "id": "SKILL-cop-maven->SKILL-cop-Jackson",
-            "source": "SKILL-cop-Jackson",
-            "target": "SKILL-cop-maven"
-        }
+        "id": 79,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/79",
+        "label": "Revert \"refactor: Jobs 이름 변경\""
     },
     {
-        "data": {
-            "id": "SKILL-cop-tomcat",
-            "url": "http://tomcat.apache.org/",
-            "label": "tomcat"
-        }
+        "id": 80,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/80",
+        "label": "성경구절 검색어로 약자와 장절 사이에 공백 허용"
     },
     {
-        "data": {
-            "id": "SKILL-cop-spring->SKILL-cop-tomcat",
-            "source": "SKILL-cop-tomcat",
-            "target": "SKILL-cop-spring"
-        }
+        "id": 81,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/81",
+        "label": "치환자마다 다른 서식을 적용하는 기능"
     },
     {
-        "data": {
-            "id": "SKILL-cop-myBatis",
-            "url": "https://mybatis.org/mybatis-3/ko/index.html",
-            "label": "myBatis"
-        }
+        "id": 82,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/82",
+        "label": "fix: 성경 소스 응답 없을 때 자세한 오류 안내"
     },
     {
-        "data": {
-            "id": "SKILL-cop-spring->SKILL-cop-myBatis",
-            "source": "SKILL-cop-myBatis",
-            "target": "SKILL-cop-spring"
-        }
+        "id": 83,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/83",
+        "label": "feat: 장별 시작 절 번호 `[CPAS]`, 끝 번호 `[CPAE]` 치환자 활성화"
     },
     {
-        "data": {
-            "id": "SKILL-cop-oracle",
-            "url": "https://www.oracle.com/kr/database/technologies/",
-            "label": "Oracle"
-        }
+        "id": 84,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/84",
+        "label": "PPT 만들기 후에 제작 기록으로 화면 전환하지 않기"
     },
     {
-        "data": {
-            "id": "SKILL-cop-myBatis->SKILL-cop-oracle",
-            "source": "SKILL-cop-oracle",
-            "target": "SKILL-cop-myBatis"
-        }
+        "id": 85,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/85",
+        "label": "fix: PPT 만들기 후 화면 전환 기능 삭제"
     },
     {
-        "data": {
-            "id": "FE-cop",
-            "label": "Front-End"
-        }
+        "id": 87,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/87",
+        "label": "Parallels로 Mac 사용자 폴더에서 앱 실행 시 에러 알림 없이 꺼지는 현상"
     },
     {
-        "data": {
-            "id": "PJ-cop->FE-cop",
-            "source": "FE-cop",
-            "target": "PJ-cop"
-        }
+        "id": 88,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/88",
+        "label": "사용자 설정을 db에 저장"
     },
     {
-        "data": {
-            "id": "SKILL-cop-html",
-            "url": "https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
-            "label": "HTML"
-        }
+        "id": 89,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/89",
+        "label": "EntityFramework 대신 Realm 사용"
     },
     {
-        "data": {
-            "id": "FE-cop->SKILL-cop-html",
-            "source": "SKILL-cop-html",
-            "target": "FE-cop"
-        }
+        "id": 91,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/91",
+        "label": "build: 대상 프레임워크로 .NET 6.0 사용"
     },
     {
-        "data": {
-            "id": "SKILL-cop-css",
-            "url": "https://developer.mozilla.org/ko/docs/Web/CSS",
-            "label": "CSS"
-        }
+        "id": 92,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/92",
+        "label": "PPT 만들기 후 제작 현황 보여주기"
     },
     {
-        "data": {
-            "id": "FE-cop->SKILL-cop-css",
-            "source": "SKILL-cop-css",
-            "target": "FE-cop"
-        }
+        "id": 93,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/93",
+        "label": "성경 구절 검색어로 다국어 책 이름 약자 사용"
     },
     {
-        "data": {
-            "id": "SKILL-cop-jQuery",
-            "url": "https://jquery.com/",
-            "label": "jQuery"
-        }
+        "id": 94,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/94",
+        "label": "사용자 설정을 JSON으로 저장"
     },
     {
-        "data": {
-            "id": "FE-cop->SKILL-cop-jQuery",
-            "source": "SKILL-cop-jQuery",
-            "target": "FE-cop"
-        }
+        "id": 95,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/95",
+        "label": "성경 소스가 다국어 책 이름 약자를 매칭하는 방법 개선"
     },
     {
-        "data": {
-            "id": "SKILL-cop-jQWidgets",
-            "url": "https://www.jqwidgets.com/",
-            "label": "jQWidgets"
-        }
+        "id": 96,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/96",
+        "label": "`BibleIndexService` 추가"
     },
     {
-        "data": {
-            "id": "SKILL-cop-jQuery->SKILL-cop-jQWidgets",
-            "source": "SKILL-cop-jQWidgets",
-            "target": "SKILL-cop-jQuery"
-        }
+        "id": 97,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/97",
+        "label": "다국어 책 이름, 약자 제공자 추가"
     },
     {
-        "data": {
-            "id": "SKILL-cop-datepicker",
-            "url": "https://jqueryui.com/datepicker/",
-            "label": "datepicker"
-        }
+        "id": 98,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/98",
+        "label": "책 정보 버전별 값을 묶어서 IsPrimary 설정 기능 추가"
     },
     {
-        "data": {
-            "id": "SKILL-cop-jQuery->SKILL-cop-datepicker",
-            "source": "SKILL-cop-datepicker",
-            "target": "SKILL-cop-jQuery"
-        }
+        "id": 99,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/99",
+        "label": "ppt만들기하면 오류가... ㅠㅠ"
     },
     {
-        "data": {
-            "id": "SKILL-cop-ajax",
-            "url": "https://api.jquery.com/category/ajax/",
-            "label": "Ajax"
-        }
+        "id": 100,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/100",
+        "label": "안녕하세요! 성경구절 오류 질문입니다!"
     },
     {
-        "data": {
-            "id": "SKILL-cop-jQuery->SKILL-cop-ajax",
-            "source": "SKILL-cop-ajax",
-            "target": "SKILL-cop-jQuery"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-cop-jsp",
-            "url": "https://www.oracle.com/java/technologies/jspt.html",
-            "label": "JSP"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-cop->SKILL-cop-jsp",
-            "source": "SKILL-cop-jsp",
-            "target": "FE-cop"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-cop-jstl",
-            "url": "https://www.oracle.com/technetwork/java/index-141251.html",
-            "label": "JSTL"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-cop-jsp->SKILL-cop-jstl",
-            "source": "SKILL-cop-jstl",
-            "target": "SKILL-cop-jsp"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-cop-el",
-            "url": "https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/expressions.html",
-            "label": "EL"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-cop-jsp->SKILL-cop-el",
-            "source": "SKILL-cop-el",
-            "target": "SKILL-cop-jsp"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-cop",
-            "label": "ETC"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-cop->ETC-cop",
-            "source": "ETC-cop",
-            "target": "PJ-cop"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-kbncMro",
-            "url": "https://docs.google.com/presentation/d/1T_2V86CmNqGJkzwMqvLlr4uUWLjxfzIZqTfbbfBd0PI/edit#slide=id.g7c0959267c_0_1",
-            "label": "kbnc MRO project\n(19.04 ~ 19.08)"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-kbncMro",
-            "label": "ETC"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-kbncMro->ETC-kbncMro",
-            "source": "ETC-kbncMro",
-            "target": "PJ-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-kbncMro-egov",
-            "url": "https://www.egovframe.go.kr/",
-            "label": "eGovFramework"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-kbncMro->ETC-kbncMro-egov",
-            "source": "ETC-kbncMro-egov",
-            "target": "ETC-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-kbncMro-sqlGate",
-            "url": "https://www.sqlgate.com/?language=ko",
-            "label": "SQLGate"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-kbncMro->ETC-kbncMro-sqlGate",
-            "source": "ETC-kbncMro-sqlGate",
-            "target": "ETC-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-kbncMro-svn",
-            "url": "https://www.eclipse.org/subversive/",
-            "label": "SVN"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-kbncMro->ETC-kbncMro-svn",
-            "source": "ETC-kbncMro-svn",
-            "target": "ETC-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "BE-kbncMro",
-            "label": "Back-End"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-kbncMro->BE-kbncMro",
-            "source": "BE-kbncMro",
-            "target": "PJ-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-spring",
-            "url": "https://spring.io/",
-            "label": "Spring"
-        }
-    },
-    {
-        "data": {
-            "id": "BE-kbncMro->SKILL-kbncMro-spring",
-            "source": "SKILL-kbncMro-spring",
-            "target": "BE-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-jsp",
-            "url": "https://www.oracle.com/java/technologies/jspt.html",
-            "label": "JSP"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-spring->SKILL-kbncMro-jsp",
-            "source": "SKILL-kbncMro-jsp",
-            "target": "SKILL-kbncMro-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-jstl",
-            "url": "https://www.oracle.com/technetwork/java/index-141251.html",
-            "label": "JSTL"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-jsp->SKILL-kbncMro-jstl",
-            "source": "SKILL-kbncMro-jstl",
-            "target": "SKILL-kbncMro-jsp"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-el",
-            "url": "https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/expressions.html",
-            "label": "EL"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-jsp->SKILL-kbncMro-el",
-            "source": "SKILL-kbncMro-el",
-            "target": "SKILL-kbncMro-jsp"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-java",
-            "url": "https://www.oracle.com/kr/java/",
-            "label": "Java"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-spring->SKILL-kbncMro-java",
-            "source": "SKILL-kbncMro-java",
-            "target": "SKILL-kbncMro-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-sha256",
-            "url": "https://www.baeldung.com/sha-256-hashing-java",
-            "label": "SHA256"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-java->SKILL-kbncMro-sha256",
-            "source": "SKILL-kbncMro-sha256",
-            "target": "SKILL-kbncMro-java"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-tomcat",
-            "url": "http://tomcat.apache.org/",
-            "label": "tomcat"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-spring->SKILL-kbncMro-tomcat",
-            "source": "SKILL-kbncMro-tomcat",
-            "target": "SKILL-kbncMro-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-maven",
-            "url": "https://www.oracle.com/kr/java/",
-            "label": "Maven"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-spring->SKILL-kbncMro-maven",
-            "source": "SKILL-kbncMro-maven",
-            "target": "SKILL-kbncMro-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-Jackson",
-            "url": "https://mvnrepository.com/search?q=Jackson",
-            "label": "Jackson"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-maven->SKILL-kbncMro-Jackson",
-            "source": "SKILL-kbncMro-Jackson",
-            "target": "SKILL-kbncMro-maven"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-myBatis",
-            "url": "https://mybatis.org/mybatis-3/ko/index.html",
-            "label": "myBatis"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-spring->SKILL-kbncMro-myBatis",
-            "source": "SKILL-kbncMro-myBatis",
-            "target": "SKILL-kbncMro-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-oracle",
-            "url": "https://www.oracle.com/kr/database/technologies/",
-            "label": "Oracle"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-myBatis->SKILL-kbncMro-oracle",
-            "source": "SKILL-kbncMro-oracle",
-            "target": "SKILL-kbncMro-myBatis"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-kbncMro",
-            "label": "Front-End"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-kbncMro->FE-kbncMro",
-            "source": "FE-kbncMro",
-            "target": "PJ-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-html",
-            "url": "https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
-            "label": "HTML"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-kbncMro->SKILL-kbncMro-html",
-            "source": "SKILL-kbncMro-html",
-            "target": "FE-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-css",
-            "url": "https://developer.mozilla.org/ko/docs/Web/CSS",
-            "label": "CSS"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-kbncMro->SKILL-kbncMro-css",
-            "source": "SKILL-kbncMro-css",
-            "target": "FE-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-javascript",
-            "url": "https://developer.mozilla.org/ko/docs/Web/JavaScript",
-            "label": "JavaScript"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-kbncMro->SKILL-kbncMro-javascript",
-            "source": "SKILL-kbncMro-javascript",
-            "target": "FE-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-regexp",
-            "url": "https://regexr.com/",
-            "label": "Regular Expression"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-javascript->SKILL-kbncMro-regexp",
-            "source": "SKILL-kbncMro-regexp",
-            "target": "SKILL-kbncMro-javascript"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-jQuery",
-            "url": "https://jquery.com/",
-            "label": "jQuery"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-kbncMro->SKILL-kbncMro-jQuery",
-            "source": "SKILL-kbncMro-jQuery",
-            "target": "FE-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-jQWidgets",
-            "url": "https://www.jqwidgets.com/",
-            "label": "jQWidgets"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-jQuery->SKILL-kbncMro-jQWidgets",
-            "source": "SKILL-kbncMro-jQWidgets",
-            "target": "SKILL-kbncMro-jQuery"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-datepicker",
-            "url": "https://jqueryui.com/datepicker/",
-            "label": "datepicker"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-jQuery->SKILL-kbncMro-datepicker",
-            "source": "SKILL-kbncMro-datepicker",
-            "target": "SKILL-kbncMro-jQuery"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-ajax",
-            "url": "https://api.jquery.com/category/ajax/",
-            "label": "Ajax"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-jQuery->SKILL-kbncMro-ajax",
-            "source": "SKILL-kbncMro-ajax",
-            "target": "SKILL-kbncMro-jQuery"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-kbncMro-miplatform",
-            "url": "",
-            "label": "miplatform"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-kbncMro->SKILL-kbncMro-miplatform",
-            "source": "SKILL-kbncMro-miplatform",
-            "target": "FE-kbncMro"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-boostCourse",
-            "url": "https://docs.google.com/presentation/d/18OUaH0O0xltEhQheRo9ROkCCxMLbCBjr3WJOzqrRW2o/edit#slide=id.p",
-            "label": "naver reservation site clone\n(19.08 ~ 19.09)"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-boostCourse",
-            "label": "ETC"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-boostCourse->ETC-boostCourse",
-            "source": "ETC-boostCourse",
-            "target": "PJ-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-boostCourse-eclipse",
-            "url": "https://www.eclipse.org/downloads/",
-            "label": "Eclipse"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-boostCourse->ETC-boostCourse-eclipse",
-            "source": "ETC-boostCourse-eclipse",
-            "target": "ETC-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-boostCourse-workbench",
-            "url": "https://www.mysql.com/products/workbench/",
-            "label": "Workbench"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-boostCourse->ETC-boostCourse-workbench",
-            "source": "ETC-boostCourse-workbench",
-            "target": "ETC-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-boostCourse-vsc",
-            "url": "https://code.visualstudio.com/",
-            "label": "VSC"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-boostCourse->ETC-boostCourse-vsc",
-            "source": "ETC-boostCourse-vsc",
-            "target": "ETC-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "BE-boostCourse",
-            "label": "Back-End"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-boostCourse->BE-boostCourse",
-            "source": "BE-boostCourse",
-            "target": "PJ-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-spring",
-            "url": "https://spring.io/",
-            "label": "Spring"
-        }
-    },
-    {
-        "data": {
-            "id": "BE-boostCourse->SKILL-boostCourse-spring",
-            "source": "SKILL-boostCourse-spring",
-            "target": "BE-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-java",
-            "url": "https://www.oracle.com/kr/java/",
-            "label": "Java"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-spring->SKILL-boostCourse-java",
-            "source": "SKILL-boostCourse-java",
-            "target": "SKILL-boostCourse-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-javaTime",
-            "url": "https://docs.oracle.com/javase/8/docs/api/java/time/package-summary.html",
-            "label": "java.time"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-java->SKILL-boostCourse-javaTime",
-            "source": "SKILL-boostCourse-javaTime",
-            "target": "SKILL-boostCourse-java"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-maven",
-            "url": "https://www.oracle.com/kr/java/",
-            "label": "Maven"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-spring->SKILL-boostCourse-maven",
-            "source": "SKILL-boostCourse-maven",
-            "target": "SKILL-boostCourse-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-Jackson",
-            "url": "https://mvnrepository.com/search?q=Jackson",
-            "label": "Jackson"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-maven->SKILL-boostCourse-Jackson",
-            "source": "SKILL-boostCourse-Jackson",
-            "target": "SKILL-boostCourse-maven"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-commonsio",
-            "url": "https://mvnrepository.com/artifact/commons-io/commons-io",
-            "label": "Commons IO"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-maven->SKILL-boostCourse-commonsio",
-            "source": "SKILL-boostCourse-commonsio",
-            "target": "SKILL-boostCourse-maven"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-slf4j",
-            "url": "https://mvnrepository.com/artifact/org.slf4j",
-            "label": "slf4j"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-maven->SKILL-boostCourse-slf4j",
-            "source": "SKILL-boostCourse-slf4j",
-            "target": "SKILL-boostCourse-maven"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-logback",
-            "url": "http://logback.qos.ch/index.html",
-            "label": "logback"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-slf4j->SKILL-boostCourse-logback",
-            "source": "SKILL-boostCourse-logback",
-            "target": "SKILL-boostCourse-slf4j"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-jdbc",
-            "url": "https://mybatis.org/mybatis-3/ko/index.html",
-            "label": "JDBC"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-spring->SKILL-boostCourse-jdbc",
-            "source": "SKILL-boostCourse-jdbc",
-            "target": "SKILL-boostCourse-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-session",
-            "url": "https://spring.io/projects/spring-session",
-            "label": "Session"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-spring->SKILL-boostCourse-session",
-            "source": "SKILL-boostCourse-session",
-            "target": "SKILL-boostCourse-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-mySQL",
-            "url": "https://www.oracle.com/kr/database/technologies/",
-            "label": "MySQL"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-jdbc->SKILL-boostCourse-mySQL",
-            "source": "SKILL-boostCourse-mySQL",
-            "target": "SKILL-boostCourse-jdbc"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-boostCourse",
-            "label": "Front-End"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-boostCourse->FE-boostCourse",
-            "source": "FE-boostCourse",
-            "target": "PJ-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-html",
-            "url": "https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
-            "label": "HTML"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-boostCourse->SKILL-boostCourse-html",
-            "source": "SKILL-boostCourse-html",
-            "target": "FE-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-css",
-            "url": "https://developer.mozilla.org/ko/docs/Web/CSS",
-            "label": "CSS"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-boostCourse->SKILL-boostCourse-css",
-            "source": "SKILL-boostCourse-css",
-            "target": "FE-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-javascript",
-            "url": "https://developer.mozilla.org/ko/docs/Web/JavaScript",
-            "label": "JavaScript"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-boostCourse->SKILL-boostCourse-javascript",
-            "source": "SKILL-boostCourse-javascript",
-            "target": "FE-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-regexp",
-            "url": "https://regexr.com/",
-            "label": "Regular Expression"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-javascript->SKILL-boostCourse-regexp",
-            "source": "SKILL-boostCourse-regexp",
-            "target": "SKILL-boostCourse-javascript"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-handlebars",
-            "url": "https://handlebarsjs.com/",
-            "label": "handlebars"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-javascript->SKILL-boostCourse-handlebars",
-            "source": "SKILL-boostCourse-handlebars",
-            "target": "SKILL-boostCourse-javascript"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-objectLiteral",
-            "url": "https://softwareengineering.stackexchange.com/questions/99240/best-javascript-coding-structure-using-object-literal",
-            "label": "Object Literal Pattern"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-javascript->SKILL-boostCourse-objectLiteral",
-            "source": "SKILL-boostCourse-objectLiteral",
-            "target": "SKILL-boostCourse-javascript"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-constructor",
-            "url": "https://gomakethings.com/an-introduction-to-the-javascript-constructor-pattern/",
-            "label": "Constructor Pattern"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-javascript->SKILL-boostCourse-constructor",
-            "source": "SKILL-boostCourse-constructor",
-            "target": "SKILL-boostCourse-javascript"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-jQuery",
-            "url": "https://jquery.com/",
-            "label": "jQuery"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-boostCourse->SKILL-boostCourse-jQuery",
-            "source": "SKILL-boostCourse-jQuery",
-            "target": "FE-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-jsp",
-            "url": "https://www.oracle.com/java/technologies/jspt.html",
-            "label": "JSP"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-boostCourse->SKILL-boostCourse-jsp",
-            "source": "SKILL-boostCourse-jsp",
-            "target": "FE-boostCourse"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-jstl",
-            "url": "https://www.oracle.com/technetwork/java/index-141251.html",
-            "label": "JSTL"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-jsp->SKILL-boostCourse-jstl",
-            "source": "SKILL-boostCourse-jstl",
-            "target": "SKILL-boostCourse-jsp"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-el",
-            "url": "https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/expressions.html",
-            "label": "EL"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-boostCourse-jsp->SKILL-boostCourse-el",
-            "source": "SKILL-boostCourse-el",
-            "target": "SKILL-boostCourse-jsp"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-ibkHr",
-            "label": "IBK HRSystem Renewal Project\n(20.01 ~ 20.04)"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ibkHr",
-            "label": "ETC"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-ibkHr->ETC-ibkHr",
-            "source": "ETC-ibkHr",
-            "target": "PJ-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ibkHr-vsc",
-            "url": "https://code.visualstudio.com/",
-            "label": "VSC"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ibkHr->ETC-ibkHr-vsc",
-            "source": "ETC-ibkHr-vsc",
-            "target": "ETC-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ibkHr-intellij",
-            "url": "https://www.jetbrains.com/ko-kr/idea/",
-            "label": "IntelliJ"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ibkHr->ETC-ibkHr-intellij",
-            "source": "ETC-ibkHr-intellij",
-            "target": "ETC-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ibkHr-toad",
-            "url": "https://www.toadworld.com/",
-            "label": "Toad"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ibkHr->ETC-ibkHr-toad",
-            "source": "ETC-ibkHr-toad",
-            "target": "ETC-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ibkHr-git",
-            "url": "https://git-scm.com/",
-            "label": "git"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ibkHr->ETC-ibkHr-git",
-            "source": "ETC-ibkHr-git",
-            "target": "ETC-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ibkHr-gitlab",
-            "url": "https://about.gitlab.com/",
-            "label": "gitlab"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ibkHr-git->ETC-ibkHr-gitlab",
-            "source": "ETC-ibkHr-gitlab",
-            "target": "ETC-ibkHr-git"
-        }
-    },
-    {
-        "data": {
-            "id": "BE-ibkHr",
-            "label": "Back-End"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-ibkHr->BE-ibkHr",
-            "source": "BE-ibkHr",
-            "target": "PJ-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-spring",
-            "url": "https://spring.io/",
-            "label": "Spring"
-        }
-    },
-    {
-        "data": {
-            "id": "BE-ibkHr->SKILL-ibkHr-spring",
-            "source": "SKILL-ibkHr-spring",
-            "target": "BE-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-swagger",
-            "url": "https://swagger.io/",
-            "label": "Swagger"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-spring->SKILL-ibkHr-swagger",
-            "source": "SKILL-ibkHr-swagger",
-            "target": "SKILL-ibkHr-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-java",
-            "url": "https://www.oracle.com/kr/java/",
-            "label": "Java"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-spring->SKILL-ibkHr-java",
-            "source": "SKILL-ibkHr-java",
-            "target": "SKILL-ibkHr-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-javaStream",
-            "url": "https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html",
-            "label": "Java Stream"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-java->SKILL-ibkHr-javaStream",
-            "source": "SKILL-ibkHr-javaStream",
-            "target": "SKILL-ibkHr-java"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-myBatis",
-            "url": "https://mybatis.org/mybatis-3/ko/index.html",
-            "label": "myBatis"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-spring->SKILL-ibkHr-myBatis",
-            "source": "SKILL-ibkHr-myBatis",
-            "target": "SKILL-ibkHr-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-oracle",
-            "url": "https://www.oracle.com/kr/database/technologies/",
-            "label": "Oracle"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-myBatis->SKILL-ibkHr-oracle",
-            "source": "SKILL-ibkHr-oracle",
-            "target": "SKILL-ibkHr-myBatis"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-lombok",
-            "url": "https://projectlombok.org/",
-            "label": "lombok"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-spring->SKILL-ibkHr-lombok",
-            "source": "SKILL-ibkHr-lombok",
-            "target": "SKILL-ibkHr-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-JPA",
-            "url": "https://spring.io/projects/spring-data-jpa",
-            "label": "JPA"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-spring->SKILL-ibkHr-JPA",
-            "source": "SKILL-ibkHr-JPA",
-            "target": "SKILL-ibkHr-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-gradle",
-            "url": "https://gradle.org/",
-            "label": "gradle"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-spring->SKILL-ibkHr-gradle",
-            "source": "SKILL-ibkHr-gradle",
-            "target": "SKILL-ibkHr-spring"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-ibkHr",
-            "label": "Front-End"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-ibkHr->FE-ibkHr",
-            "source": "FE-ibkHr",
-            "target": "PJ-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-react",
-            "url": "https://ko.reactjs.org/",
-            "label": "React"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-ibkHr->SKILL-ibkHr-react",
-            "source": "SKILL-ibkHr-react",
-            "target": "FE-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-mobx",
-            "url": "https://mobx.js.org/README.html",
-            "label": "mobx"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-react->SKILL-ibkHr-mobx",
-            "source": "SKILL-ibkHr-mobx",
-            "target": "SKILL-ibkHr-react"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-axios",
-            "url": "https://github.com/axios/axios",
-            "label": "axios"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-react->SKILL-ibkHr-axios",
-            "source": "SKILL-ibkHr-axios",
-            "target": "SKILL-ibkHr-react"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-typescript",
-            "url": "https://www.typescriptlang.org/",
-            "label": "typescript"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-ibkHr->SKILL-ibkHr-typescript",
-            "source": "SKILL-ibkHr-typescript",
-            "target": "FE-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-npm",
-            "url": "https://www.npmjs.com/",
-            "label": "npm"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-ibkHr->SKILL-ibkHr-npm",
-            "source": "SKILL-ibkHr-npm",
-            "target": "FE-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ibkHr-tailwind",
-            "url": "https://tailwindcss.com/",
-            "label": "Tailwind CSS"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-ibkHr->SKILL-ibkHr-tailwind",
-            "source": "SKILL-ibkHr-tailwind",
-            "target": "FE-ibkHr"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-ch",
-            "url": "https://icloudhospital.com/",
-            "label": "Cloud Hospital\n(20.04 ~ 20.07)"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ch",
-            "label": "ETC"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-ch->ETC-ch",
-            "source": "ETC-ch",
-            "target": "PJ-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ch-vsc",
-            "url": "https://code.visualstudio.com/",
-            "label": "VSC"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ch->ETC-ch-vsc",
-            "source": "ETC-ch-vsc",
-            "target": "ETC-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ch-azureDevops",
-            "url": "https://azure.microsoft.com/ko-kr/services/devops/?nav=min",
-            "label": "Azure DevOps"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ch->ETC-ch-azureDevops",
-            "source": "ETC-ch-azureDevops",
-            "target": "ETC-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ch-git",
-            "url": "https://git-scm.com/",
-            "label": "git"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ch->ETC-ch-git",
-            "source": "ETC-ch-git",
-            "target": "ETC-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ch-github",
-            "url": "https://github.com/",
-            "label": "Github"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ch-git->ETC-ch-github",
-            "source": "ETC-ch-github",
-            "target": "ETC-ch-git"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ch-githubDesktop",
-            "url": "https://desktop.github.com/",
-            "label": "Github Desktop"
-        }
-    },
-    {
-        "data": {
-            "id": "ETC-ch-git->ETC-ch-githubDesktop",
-            "source": "ETC-ch-githubDesktop",
-            "target": "ETC-ch-git"
-        }
-    },
-    {
-        "data": {
-            "id": "BE-ch",
-            "label": "Back-End"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-ch->BE-ch",
-            "source": "BE-ch",
-            "target": "PJ-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-swagger",
-            "url": "https://swagger.io/",
-            "label": "Swagger"
-        }
-    },
-    {
-        "data": {
-            "id": "BE-ch->SKILL-ch-swagger",
-            "source": "SKILL-ch-swagger",
-            "target": "BE-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-ch",
-            "label": "Front-End"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-ch->FE-ch",
-            "source": "FE-ch",
-            "target": "PJ-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-razzle",
-            "url": "https://github.com/jaredpalmer/razzle",
-            "label": "Razzle"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-ch->SKILL-ch-razzle",
-            "source": "SKILL-ch-razzle",
-            "target": "FE-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-cypress",
-            "url": "https://www.cypress.io/",
-            "label": "Cypress"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-ch->SKILL-ch-cypress",
-            "source": "SKILL-ch-cypress",
-            "target": "FE-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-react",
-            "url": "https://ko.reactjs.org/",
-            "label": "React"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-ch->SKILL-ch-react",
-            "source": "SKILL-ch-react",
-            "target": "FE-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-sendbird",
-            "url": "https://sendbird.com/",
-            "label": "Sendbird Chat"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-react->SKILL-ch-sendbird",
-            "source": "SKILL-ch-sendbird",
-            "target": "SKILL-ch-react"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-formik",
-            "url": "https://github.com/formium/formik",
-            "label": "Formik"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-react->SKILL-ch-formik",
-            "source": "SKILL-ch-formik",
-            "target": "SKILL-ch-react"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-yup",
-            "url": "https://github.com/jquense/yup",
-            "label": "Yup"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-formik->SKILL-ch-formik",
-            "source": "SKILL-ch-yup",
-            "target": "SKILL-ch-formik"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-oauth",
-            "url": "https://oauth.net/",
-            "label": "OAuth"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-react->SKILL-ch-oauth",
-            "source": "SKILL-ch-oauth",
-            "target": "SKILL-ch-react"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-facebookLogin",
-            "url": "https://www.npmjs.com/package/react-facebook-login",
-            "label": "react-facebook-login"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-oauth->SKILL-ch-facebookLogin",
-            "source": "SKILL-ch-facebookLogin",
-            "target": "SKILL-ch-oauth"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-googleLogin",
-            "url": "https://www.npmjs.com/package/react-google-login",
-            "label": "react-google-login"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-oauth->SKILL-ch-googleLogin",
-            "source": "SKILL-ch-googleLogin",
-            "target": "SKILL-ch-oauth"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-rtl",
-            "url": "https://testing-library.com/docs/react-testing-library/intro",
-            "label": "React Testing Library"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-react->SKILL-ch-rtl",
-            "source": "SKILL-ch-rtl",
-            "target": "SKILL-ch-react"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-redux",
-            "url": "https://redux.js.org/",
-            "label": "Redux"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-react->SKILL-ch-redux",
-            "source": "SKILL-ch-redux",
-            "target": "SKILL-ch-react"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-rxjs",
-            "url": "https://rxjs-dev.firebaseapp.com/",
-            "label": "RxJS"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-redux->SKILL-ch-rxjs",
-            "source": "SKILL-ch-rxjs",
-            "target": "SKILL-ch-redux"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-axios",
-            "url": "https://github.com/axios/axios",
-            "label": "axios"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-react->SKILL-ch-axios",
-            "source": "SKILL-ch-axios",
-            "target": "SKILL-ch-react"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-typescript",
-            "url": "https://www.typescriptlang.org/",
-            "label": "typescript"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-ch->SKILL-ch-typescript",
-            "source": "SKILL-ch-typescript",
-            "target": "FE-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-eslint",
-            "url": "https://eslint.org/",
-            "label": "ESLint"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-typescript->SKILL-ch-eslint",
-            "source": "SKILL-ch-eslint",
-            "target": "SKILL-ch-typescript"
-        }
-    },
-    {
-        "data": {
-            "id": "SKILL-ch-npm",
-            "url": "https://www.npmjs.com/",
-            "label": "npm"
-        }
-    },
-    {
-        "data": {
-            "id": "FE-ch->SKILL-ch-npm",
-            "source": "SKILL-ch-npm",
-            "target": "FE-ch"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-fsfs",
-            "label": "Fast Five - Five Spot Project (21.06 ~ 21.11)"
-        }
-    },
-    {
-        "data": {
-            "id": "REACT-fsfs",
-            "label": "REACT"
-        }
-    },
-    {
-        "data": {
-            "id": "PJ-fsfs->ETC-fsfs",
-            "source": "REACT-fsfs",
-            "target": "PJ-fsfs"
-        }
+        "id": 101,
+        "url": "https://api.github.com/repos/sunghwan2789/Bible2PPT/issues/101",
+        "label": "책 검색 상자에 약자가 공백이라서 성경 구절 입력칸에 약자 추가 못하는 현상"
     }
 ]
