@@ -147,7 +147,7 @@ fetch('./model/data.json', {
       selector: 'node',
       style: {
         'background-color': nodeColor,
-        'label': 'data(id)',
+        'label': 'data(label)',
         'width': function width(ele) {
           return nodeMaxSize * (pageRank.rank('#' + ele.id()) * 8) + nodeMinSize;
         },
