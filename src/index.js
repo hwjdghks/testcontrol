@@ -58,7 +58,7 @@ fetch('./model/data.json', { mode: 'no-cors' })
                     selector: 'node',
                     style: {
                         'background-color': nodeColor,
-                        'label': 'data(label)',
+                        'label': 'data(id)',
                         'width': function (ele) {
                             return nodeMaxSize * (pageRank.rank('#' + ele.id()) * 8) + nodeMinSize;
                         },
